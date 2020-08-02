@@ -1,0 +1,7 @@
+README.md
+setup.py
+boxprint/__init__.py
+boxprint.egg-info/PKG-INFO
+boxprint.egg-info/SOURCES.txt
+boxprint.egg-info/dependency_links.txt
+boxprint.egg-info/top_level.txt
